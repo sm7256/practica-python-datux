@@ -1,4 +1,6 @@
 def mostrar_menu():
-    print("1. Agregar Producto")
-    print("2. Salir")
-    return input("Elige una opción: ")
+    print("\n📌 MENÚ PRINCIPAL")
+    print("1️⃣ Agregar producto")
+    print("2️⃣ Ver productos")
+    print("3️⃣ Salir")
+    return input("Seleccione una opción: ")
